@@ -1,0 +1,8 @@
+Correo Electronico: JohnAlonzo@gmail.com
+Nombre del Dispositivo: John
+Visibilidad: Si
+Estado por defecto: Activo
+Correo Electronico: johnalonzo
+Nombre del Dispositivo: john
+Visibilidad: visible
+Estado por defecto: Activo
